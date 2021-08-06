@@ -50,41 +50,52 @@ year = {2020}
 }
 ```
 
+```
 @inproceedings{lee2019dancing2music,
   title={Dancing to Music},
   author={Lee, Hsin-Ying and Yang, Xiaodong and Liu, Ming-Yu and Wang, Ting-Chun and Lu, Yu-Ding and Yang, Ming-Hsuan and Kautz, Jan},
   booktitle={NeurIPS},
   year={2019}
 }
+```
 
+```
 @inproceedings{fang2017rmpe,
   title={{RMPE}: Regional Multi-person Pose Estimation},
   author={Fang, Hao-Shu and Xie, Shuqin and Tai, Yu-Wing and Lu, Cewu},
   booktitle={ICCV},
   year={2017}
 }
+```
 
+```
 @article{li2018crowdpose,
   title={CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark},
   author={Li, Jiefeng and Wang, Can and Zhu, Hao and Mao, Yihuan and Fang, Hao-Shu and Lu, Cewu},
   journal={arXiv preprint arXiv:1812.00324},
   year={2018}
 }
+```
 
+```
 @inproceedings{xiu2018poseflow,
   author = {Xiu, Yuliang and Li, Jiefeng and Wang, Haoyu and Fang, Yinghong and Lu, Cewu},
   title = {{Pose Flow}: Efficient Online Pose Tracking},
   booktitle={BMVC},
   year = {2018}
 }
+```
 
+```
 @inproceedings{park2019SPADE,
   title={Semantic Image Synthesis with Spatially-Adaptive Normalization},
   author={Park, Taesung and Liu, Ming-Yu and Wang, Ting-Chun and Zhu, Jun-Yan},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2019}
 }
+```
 
+```
 @inproceedings{wang2019fewshotvid2vid,
    author    = {Ting-Chun Wang and Ming-Yu Liu and Andrew Tao 
                 and Guilin Liu and Jan Kautz and Bryan Catanzaro},
@@ -92,3 +103,4 @@ year = {2020}
    booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},   
    year      = {2019},
 }
+```
