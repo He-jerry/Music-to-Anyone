@@ -40,7 +40,7 @@ https://github.com/NVlabs/few-shot-vid2vid
 
 
 ### Citation
-If you use this code for your research, please cite our paper.
+
 ```
 @InProceedings{ren_mm_dance,
 author = {Xuanchi Ren, Haoran Li, Zijian Huang, Qifeng Chen},
